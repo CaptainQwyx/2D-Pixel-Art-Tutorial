@@ -1,0 +1,6 @@
+Iconised
+2D
+Transparency
+Flat Shading
+Rounded corners
+Mostly symmetric
